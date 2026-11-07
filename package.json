@@ -1,0 +1,28 @@
+{
+  "name": "fpc-pwa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanyang1/fpc-pwa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/evanyang1/fpc-pwa/issues"
+  },
+  "homepage": "https://github.com/evanyang1/fpc-pwa#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "http": "^0.0.1-security",
+    "mongoose": "^9.12.0"
+  }
+}
